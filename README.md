@@ -1,4 +1,4 @@
 # Python.begin-masalalar
 
 Salom!
-Bu yerda python dasturidagi begin  bo'yicha masalalarining yechimini ko'ramiz?
+Bu yerda python dasturidagi masalalarining yechimini ko'ramiz?
